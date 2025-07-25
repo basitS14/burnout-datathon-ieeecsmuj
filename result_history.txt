@@ -1,0 +1,11 @@
+Model :  LGBM
+Training Score :  8.974360842735141
+Testing Score :  9.010019184520365
+
+Model :  LGBM
+Training Score :  4.738670894020018
+Testing Score :  4.802352554264535
+
+Model :  LGBM
+Training Score :  0.2726917758668537
+Testing Score :  0.36064528782615607
